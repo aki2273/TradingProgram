@@ -1,0 +1,7 @@
+Backtests/
+price_data/
+bulk_data/
+__pycache__/
+fibMACD/
+results/
+debug_results/
